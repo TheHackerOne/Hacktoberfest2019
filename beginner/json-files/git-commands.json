@@ -333,5 +333,7 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
-  }
+  },
+    "title": "git config --global alias.commend 'commit --amend --no-edit",
+    "description": "quietly tacks any staged files onto the last commit"
 ]
